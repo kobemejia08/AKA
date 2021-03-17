@@ -1,0 +1,71 @@
+header{
+    height: 500px;
+}
+header h4{
+    font-size: 4rem;
+}
+header img{
+    width: 200px;
+    height: 100px;
+}
+.header--title-container h1{
+    font-size: 4rem;
+    line-height: 4.6rem;
+}
+.header--title-container p{
+    font-size: 2rem;
+}
+.header--title-container .header--button{
+    left: calc(50% - 158px);
+    top: 440px;
+    width: 335px;
+    height: 58px;
+    font-size: 2rem;
+}
+.main-exchange-container{
+    height: 550px;
+}
+.main-exchange-container .backgroundImg{
+    width: 300px;
+    height: 300px;
+}
+.main-exchange-container--title h2{
+    font-size: 3rem;
+}
+.main-exchange-container--title p{
+    font-size: 1.8rem;
+    margin-bottom: 50px;
+}
+.product-detail-logo{
+    width: 60px;
+    height: 60px;
+}
+.product-detail--title h2{
+    font-size: 3rem;
+}
+.product-detail--title p{
+    font-size: 1.8rem;
+}
+.product--card-title {
+    font-size: 2rem;
+}
+.product--card-body{
+    font-size: 1.6rem;
+}
+.product-detail--card .icon-card {
+    width: 25px;
+    height: 25px;
+}
+.img-container{
+    width: 1000px;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 50px;
+    background-image: url('../assets/img/imagen-b.png');
+}
+footer{
+    height: 150px;
+}
+footer .left ul{
+    font-size: 1.8rem;
+}
